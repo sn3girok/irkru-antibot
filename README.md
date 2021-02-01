@@ -1,3 +1,7 @@
+IRK.ru Antibot
+==
+Расширение для браузера Google Chrome, позовляющее блокировать сообщения и комментарии ботов
+
 Инструкция по установке
 ===
 1. загрузите архив с расширением по [ссылке](https://github.com/sn3girok/irkru-antibot/blob/main/irkru-antibot.zip?raw=true)
